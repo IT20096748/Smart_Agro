@@ -1,9 +1,8 @@
 # Smart_Agro 🌱
 
-### An integrated platform for identification of suitable lands and soil conditions for remunerative 
-### crops in Sri Lanka
+### An integrated platform for identification of suitable lands and soil conditions for remunerative crops in Sri Lanka
 
-#### Project ID - TMP-23-236
+### Project ID - TMP-23-236
 #### Team members
 ##### IT20096748 - Manchalee R.R.N
 ##### IT20122928 -  Madhushika A.H.D.
