@@ -32,5 +32,6 @@
       using GIS map and remote 
       sensing approach.
  </li>
+ <br>
  <img src = "Screenshot 2023-04-07 155951.png">
 
