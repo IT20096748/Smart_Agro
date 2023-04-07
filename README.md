@@ -12,17 +12,16 @@
 
 #### Components
 
-<li> Monitor and maintain 
+ <li> Monitor and maintain 
        healthy growth of crops by 
        plant disease detection. 
-</li>
+ </li>
  
  <li> Prediction and analysis to 
        determine whether the 
        selected can be grown in 
        given soil condition.
  </li>
- 
  
  <li> Soil testing and identification 
       of soil conditions using IOT 
@@ -32,6 +31,6 @@
  <li> Identification of bare lands 
       using GIS map and remote 
       sensing approach.
-
  </li>
+ <img src = "Screenshot 2023-04-07 155951.png">
 
